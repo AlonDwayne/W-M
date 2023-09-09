@@ -1,0 +1,50 @@
+.main{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    text-decoration-color: aqua;
+    color: whitesmoke;
+    font-family: Impact, sans-serif;
+    background-image: url(https://th.bing.com/th/id/R.431630dcf3ac23c03008db4d1a38d6cb?rik=bzhfvIWYCyrSWg&pid=ImgRaw&r=0);
+}
+img{
+    max-width: 35%;
+    max-height: 25%;
+}
+.windows p {
+    display: inline-block;
+}
+.bedroom{
+    text-align: left;
+    width: 75%;
+    font-size: 40px;
+    color: white;
+}
+.price{
+    text-align: right;
+    width: 25%;
+    font-size: 40px;
+    color: white;
+}
+
+.windows img{
+    display: inline-block;
+}
+
+
+.nac{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(161, 48, 86);
+}
+.main2{
+   background-color: navy;
+    text-align: center;
+}
+body{
+    font-size: 20px;
+    
+}
